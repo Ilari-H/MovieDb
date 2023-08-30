@@ -1,0 +1,48 @@
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\ML&DB.exe
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\ML&DB.deps.json
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\ML&DB.runtimeconfig.json
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\ML&DB.dll
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\ML&DB.pdb
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML_DB.Form1.resources
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.GenerateResource.cache
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.AssemblyInfoInputs.cache
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.AssemblyInfo.cs
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.CoreCompileInputs.cache
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.dll
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\refint\ML&DB.dll
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.pdb
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.genruntimeconfig.cache
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ref\ML&DB.dll
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML_DB.Properties.Resources.resources
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML_DB.Tabs.UC_Home.resources
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML_DB.Tabs.UC_Search.resources
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.AssemblyReference.cache
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.CopyComplete
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\obj\Debug\net7.0-windows\ML_DB.Tabs.UC_Library.resources
+C:\Users\ilari\Desktop\Gradia tehtävät\Tehtävät\11.Ohjelmistoprojekti\ML&DB\bin\Debug\net7.0-windows\ML&DB.dll.config
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\ML&DB.exe
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\ML&DB.dll.config
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\ML&DB.deps.json
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\ML&DB.runtimeconfig.json
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\ML&DB.dll
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\ML&DB.pdb
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.AssemblyReference.cache
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML_DB.Form1.resources
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML_DB.Properties.Resources.resources
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML_DB.Tabs.UC_Home.resources
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML_DB.Tabs.UC_Library.resources
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML_DB.Tabs.UC_Search.resources
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.GenerateResource.cache
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.AssemblyInfoInputs.cache
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.AssemblyInfo.cs
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.CoreCompileInputs.cache
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.csproj.CopyComplete
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.dll
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\refint\ML&DB.dll
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.pdb
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ML&DB.genruntimeconfig.cache
+C:\Users\ilari\Desktop\Projects for GIT PAGE\ML&DB\obj\Debug\net7.0-windows\ref\ML&DB.dll
